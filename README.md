@@ -1,6 +1,6 @@
 # Mohsiniqbalbhatti's GitHub Profile
 
-![Profile Banner](https://github.com/Mohsiniqbalbhatti/mohsiniqbalbhatti/assets/147073902/04c1734a-280a-4ced-99db-ad4740423fb8)
+
 
 <div align="center">
   <h3><b>📍 Profile Visitor Count</b></h3>
@@ -28,7 +28,7 @@ Here are some of the projects I have been working on recently:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,bootstrap,react,nodejs,express,mongodb,twitter,canva,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,bootstrap,react,nodejs,express,mongodb,twitter,figma" />
   </a>
 </p>
 
