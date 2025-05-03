@@ -1,82 +1,15 @@
-# 👨💻 Muhammad Mohsin Iqbal  
-**Full-Stack Developer | MERN & Modern Tech Specialist**  
-[![Email](https://img.shields.io/badge/-Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohsiniqbalbhatti0024@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/your-github)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat&logo=leetcode)](https://leetcode.com/your-leetcode)
+<h1 align="center">Hi 👋, I'm Muhammad Mohsin Iqbal</h1>
+<h3 align="center">A passionate Full stack developer.</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohsiniqbalbhatti&label=Profile%20views&color=0e75b6&style=flat" alt="mohsiniqbalbhatti" /> </p>
 
-## 🚀 About Me  
-A **versatile developer** passionate about building scalable web apps with modern stacks like MERN, Next.js, and TypeScript. I blend creativity with technical rigor to solve real-world problems. Currently freelancing while pursuing a BSc in Computer Science (CGPA: 3.35).
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## 🎓 Education  
-**Government College University Faisalabad Sahiwal Campus**  
-*Bachelor in Computer Science*  
-November 2021 - Present | CGPA: 3.35  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsiniqbalbhatti&show_icons=true&locale=en&layout=compact" alt="mohsiniqbalbhatti" /></p>
 
----
-
-## 💼 Experience  
-### **Freelance Full-Stack Developer**  
-*Jan 2023 - Present | Remote*  
-- Built **15+ production-ready apps** using MERN, Next.js, and TypeScript.  
-- Automated workflows (payments, SSL, CI/CD) for 10+ clients.  
-- Integrated AWS, SQLite, and PHP for scalable backend solutions.  
-
----
-
-## 🔥 Featured Projects  
-
-### 🚀 **SMM Panel (Social Media Marketing Platform)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-%2300C7B7?style=flat)](https://pakboosterz.com/)  
-**Tech Stack:** React.js, Node.js, MongoDB, AWS, TypeScript  
-- **Automated Payment Verification**: SMS + email parsing for instant fund allocation.  
-- **White-Label Solution**: Custom domains, dynamic pricing, and admin controls.  
-- **Impact**: Served 1k+ social media marketers with 98% uptime.  
-
----
-
-### 🏡 **Real Estate Home Agency Platform**  
-**Tech Stack:** Next.js, TypeScript, SQLite, Cloudinary  
-- **Advanced Search**: Filters for property type, price, and location.  
-- **Secure Backend**: JWT auth, PHP microservices, and AWS S3 storage.  
-- **Impact**: Reduced property listing time by 70% for agents.  
-
----
-
-### ⛅ **CloudClaster (Real-Time Weather App)**  
-[![Live Demo](https://img.shields.io/badge/Live-Demo-%2300C7B7?style=flat)](https://cloudclaster.netlify.app/)  
-**Tech Stack:** React.js, TypeScript, OpenWeather API, AWS Lambda  
-- **5-Day Forecasts**: Geolocation-based predictions.  
-- **Impact**: 5k+ active users with 99% API reliability.  
-
----
-
-## 🛠️ Tech Stack  
-| **Frontend**       | **Backend**        | **Database** | **DevOps**         |  
-|---------------------|--------------------|--------------|--------------------|  
-| React.js / Next.js  | Node.js / PHP      | MongoDB      | AWS (EC2, S3, Lambda) |  
-| TypeScript          | Express.js         | SQLite       | Nginx / Netlify    |  
-| Bootstrap           | RESTful APIs       |              | Git & GitHub       |  
-| HTML5 / CSS3        | JWT / Bcrypt       |              | Postman / VSCode   |  
-
----
-
-## 🏆 Key Achievements  
-- **95% Client Satisfaction**: Delivered projects 20% faster than deadlines.  
-- **Open Source Contributor**: 50+ merged PRs on GitHub.  
-- **Problem Solver**: 300+ LeetCode solutions (Top 15% in SQL).  
-
----
-
-## 📬 Let's Build Something Amazing!  
-- 📧 **Email**: [mohsiniqbalbhatti0024@gmail.com](mailto:mohsiniqbalbhatti0024@gmail.com)  
-- 📱 **Phone**: +92-324-0024-708  
-- 💼 **LinkedIn**: [Connect for Opportunities](https://linkedin.com/in/your-linkedin)  
-- 🌐 **Portfolio**: [Explore My Work](#-featured-projects)  
-
-![GitHub Streak](https://streak-stats.demolab.com?user=your-github&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github&layout=compact&theme=radical)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsiniqbalbhatti&" alt="mohsiniqbalbhatti" /></p>
