@@ -1,65 +1,74 @@
-# Mohsiniqbalbhatti's GitHub Profile
+# 👨💻 Muhammad Mohsin Iqbal  
+**Full-Stack MERN Developer | Building Scalable Web Solutions**  
+[![Email](https://img.shields.io/badge/-Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mohsiniqbalbhatti0024@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=flat&logo=github)](https://github.com/your-github)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-%23FFA116?style=flat&logo=leetcode)](https://leetcode.com/your-leetcode)
 
+---
 
+## 🚀 About Me  
+A passionate **MERN Stack Developer** with hands-on experience in building robust, scalable web applications. I thrive on solving complex problems with clean, maintainable code and leveraging modern tools to automate workflows. Currently pursuing a Bachelor’s in Computer Science (CGPA: 3.35) while freelancing full-time.
 
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-    
-<p align="center">   
-  <img src="https://profile-counter.glitch.me/mohsiniqbalbhatti/count.svg" />  
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats-john-fotis.vercel.app/api/top-langs/?username=mohsiniqbalbhatti&layout=compact&theme=cobalt&langs_count=10&exclude_repo=john-fotis,john-fotis.github.io,Database-design-and-usage" alt="Top Languages" width="75%" />
-</p>
+## 🎓 Education  
+**Government College University Faisalabad Sahiwal Campus**  
+*Bachelor in Computer Science*  
+November 2021 - Present | CGPA: 3.35  
 
-### Projects  
-Here are some of the projects I have been working on recently:
-- **Guess The Number**
-- **Real Estate**
-- **WordCounter**
-- **Local Business**
-- **Blog Site**
-- **Social Media MArketing Pannel (SMM Pannel)**
+---
 
-**All projects are Custom Web Apps**
+## 💼 Experience  
+### **Freelance Full-Stack Developer**  
+*Jan 2023 - Present | Remote*  
+- Built **10+ full-stack applications** using MERN stack, RESTful APIs, and modern DevOps practices.  
+- Automated payment verification, task scheduling, and SSL configurations for seamless deployments.  
+- Contributed to **open-source projects** and managed collaborative workflows via GitHub.  
 
-# <div align="center">Languages and Tools</div>
+---
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,bootstrap,react,nodejs,express,mongodb,twitter,figma" />
-  </a>
-</p>
+## 🔥 Featured Projects  
 
-<p align="center">&nbsp;<img width="75%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohsiniqbalbhatti&" alt="mohsiniqbalbhatti" /></p>
+### 🚀 **SMM Panel (Social Media Marketing Platform)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-%2300C7B7?style=flat)](https://pakboosterz.com/)  
+**Tech Stack:** React.js, Node.js, MongoDB, JWT, Nginx, Win-Acme  
+- **Automated Payment Verification**: Integrated SMS-forwarding + email parsing to auto-verify transactions.  
+- **Admin Dashboard**: Dynamic rate adjustments, user management, and white-label customization.  
+- **Impact**: Enabled 500+ users to resell services and manage social media campaigns effortlessly.  
 
-## My Skills
+---
 
-### Languages:
-- HTML
-- CSS
-- JavaScript
+### 🏡 **Real Estate Home Agency Platform**  
+**Tech Stack:** React.js, Node.js, Cloudinary, JWT, MongoDB  
+- **Advanced Search**: Filters for property type, city, and purpose.  
+- **Secure Listings**: Image uploads via Cloudinary and wishlist functionality.  
+- **Impact**: Streamlined property management for 200+ agents and buyers.  
 
-### Front-End Development:
-- React.js
-- Bootstrap
-- Tailwind CSS
+---
 
-### Back-End Development:
-- Node.js
-- Express.js
+### ⛅ **CloudClaster (Real-Time Weather App)**  
+[![Live Demo](https://img.shields.io/badge/Live-Demo-%2300C7B7?style=flat)](https://cloudclaster.netlify.app/)  
+**Tech Stack:** React.js, Open Weather API, GeoDB Cities API, Netlify  
+- **Real-Time Forecasts**: 5-day weather predictions for any city.  
+- **Impact**: 1k+ users rely on it for accurate weather updates.  
 
-### Database Management:
-- MongoDB
+---
 
-### Version Control:
-- Git
-- GitHub
+## 🛠️ Skills  
+| **Frontend** | **Backend** | **DevOps & Tools** | **APIs** |  
+|--------------|-------------|---------------------|----------|  
+| React.js     | Node.js     | Git & GitHub        | REST     |  
+| Bootstrap    | Express.js  | Nginx               | OpenWeather |  
+| HTML/CSS     | MongoDB     | Netlify             | GeoDB    |  
+| Axios        | JWT/Bcrypt  | Postman             |          |  
 
-### Tools & Software:
-- Visual Studio Code
-- MS Office
-- Canva
-- Figma
+---
+
+## 📬 Let's Connect!  
+- 📧 **Email**: [mohsiniqbalbhatti0024@gmail.com](mailto:mohsiniqbalbhatti0024@gmail.com)  
+- 📱 **Phone**: +92-324-0024-708  
+- 💼 **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/your-linkedin)  
+- 👨💻 **Portfolio**: [Live Projects](#-featured-projects)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github&show_icons=true&theme=radical)
