@@ -1,9 +1,9 @@
-![Mohsin linkedin banner](https://github.com/user-attachments/assets/9499f27f-caa0-42da-b8ac-b382fda8fa0d)
+![Mohsin linkedin banner](https://github.com/user-attachments/assets/9f06bcb8-d6b5-4613-99cc-5c5cc94d9dff)
 
 
 
 
-###
+
 
 
 <h1 align="center">👋 Hi there - I’m Muhammad Mohsin Iqbal!</h1>
