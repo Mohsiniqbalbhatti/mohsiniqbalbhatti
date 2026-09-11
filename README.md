@@ -17,13 +17,14 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohsiniqbalbhatti&show_icons=true&theme=transparent&hide_border=true" alt="Mohsiniqbalbhatti GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohsiniqbalbhatti&theme=github" alt="Mohsiniqbalbhatti GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohsiniqbalbhatti&theme=github" alt="Mohsiniqbalbhatti GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohsiniqbalbhatti&theme=github&utcOffset=5" alt="Mohsiniqbalbhatti productive time" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohsiniqbalbhatti&theme=transparent&hide_border=true" alt="Mohsiniqbalbhatti GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohsiniqbalbhatti&theme=github-compact&hide_border=true" alt="Mohsiniqbalbhatti contribution graph" />
 </p>
